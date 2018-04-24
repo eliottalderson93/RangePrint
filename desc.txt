@@ -1,0 +1,2 @@
+function takes the start, end and skip amount and logs all the numbers 
+in that pattern. By Erik Nordland.
